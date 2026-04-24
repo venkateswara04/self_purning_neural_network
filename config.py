@@ -7,7 +7,7 @@ import torch
 
 LAMBDAS = [1e-2, 5e-2, 1e-1]
 
-EPOCHS     = 10         
+EPOCHS     = 20         
 LR         = 1e-3        
 BATCH_SIZE = 256         
 
